@@ -6,7 +6,7 @@ An array is \[describe in very simple terms\].
 
 In memory, an array looks like this:
 
-\[sketch or diagram\]
+![Image of Array in Memory](images/array_memory.png)
 
 \[description of diagram\]
 
